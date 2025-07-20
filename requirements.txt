@@ -1,0 +1,17 @@
+# 데이터 처리 및 유틸리티
+pandas
+numpy==1.23.1
+tqdm==4.66.5
+scikit-learn==1.3.2
+
+# PyTorch
+torch==2.4.0
+
+# HuggingFace 및 KoBERT 관련
+transformers==4.44.2
+kobert-tokenizer==0.1
+sentencepiece==0.1.99
+
+# GluonNLP 및 의존성
+gluonnlp
+mxnet==1.9.1
